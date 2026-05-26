@@ -1,5 +1,5 @@
-## AO1 - Establishing Comms
-### Kate Morgan
+## AO2 - Establishing Comms
+### K Morgan
 ### Description:
 
 Set up and join Slack and put my info in the class roster.

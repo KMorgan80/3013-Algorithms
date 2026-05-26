@@ -1,13 +1,13 @@
 ## PO2 - Linear Search
-### Kate Morgan
+### K Morgan
 ### Description:
 
-Using Json and Getch, this program performs linear search to create a suggestive search based on the user's character input. The user will be asked to enter characters of the word they are searching for. This program will find matches to the users input, that are words begining with the string inpiuted by the user. The program will print out the total matches found, and will print out the top 10 results.
+Using JSON and Getch, this program performs linear search to create a suggestive search based on the user's character input. The user enters characters of the word they are searching for, and the program finds all dictionary words beginning with the inputted string. It prints the total matches found and the top 10 results, along with the time taken to search.
 ### Files
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](P01/main.cpp)       | Main file for running the program|
+|   1   | [main.cpp](PO2/main.cpp)       | Main file for running the program|
 | 2 | [Output1] (PO2/Output1) | example output 1| 
 | 3 | [Output2] (PO2/Output2) | example output 2| 
 | 4 | [Output3] (PO2/Output3) | example output 3| 

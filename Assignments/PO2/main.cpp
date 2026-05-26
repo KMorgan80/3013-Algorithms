@@ -1,5 +1,5 @@
  /*
- *  Author:           Kate Morgan
+ *  Author:           K Morgan
  *  Title:            Linear Search
  *  Course:           CMPS 3013
  *  Semester:         Spring 2024

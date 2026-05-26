@@ -1,5 +1,5 @@
 ## OP1 - Vector Class
-### Kate Morgan
+### K Morgan
 ### Description:
 
 Optional program. Uses a singly linked list as the backend for an STL like "vector" class definition.

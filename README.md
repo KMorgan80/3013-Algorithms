@@ -1,8 +1,6 @@
-## Kate Morgan
-#### Repo: 3013 Algorithms Repository
+## K Morgan
+#### Repo: 3013 Algorithms
 #### Email: kbmorgan0911@my.msutexas.edu
-#### Website: None Yet
-#### Image: 
-![Picture of me](https://github.com/KateM80/2143-OOP-morgan/blob/main/Picture%20for%20OOP.jpg)
-#### Avatar:
-![Avatar](https://github.com/KateM80/2143-OOP-morgan/blob/main/NewPF.jpg)
+#### Class: 3013 Algorithms | Spring 2024 | MSU Texas
+
+Algorithms course covering C++ data structures and algorithm design, including linked list containers and linear search with auto-suggestion using a JSON dictionary.

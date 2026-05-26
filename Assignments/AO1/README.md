@@ -1,5 +1,5 @@
 ## AO1 - Making the Repo
-### Kate Morgan
+### K Morgan
 ### Description:
 
 The purpose of this assigment was to set up the repo for this course and make sure each part of the repo is in correct opperationg order. I have made the repo and set up the assigmnet folder. 
